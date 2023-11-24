@@ -1,5 +1,5 @@
 <div align=center>
-  <img height=200px src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/main/Assets/BackGround.gif">
+  <img height=200px src="https://github.com/Kokomichrzan/WebBio/blob/main/Assets/BackGround.gif">
 <h1>💖WebBio💖</h1>
 <h2>🌐About🌐</h2>
 <a href="https://kokomichrzan.github.io/WebBio/">My Website Bio page </a>
@@ -15,6 +15,6 @@
   </td>
 </table>
 
-<img height=200px src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/main/Assets/Pak.gif">
+<img height=200px src="https://github.com/Kokomichrzan/WebBio/blob/main/Assets/Pak.gif">
 
 </div>
