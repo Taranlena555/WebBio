@@ -1,11 +1,8 @@
 <div align=center>
   <img height=200px src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/main/Assets/BackGround.gif">
-<h1>💖Title💖</h1>
-
+<h1>💖WebBio💖</h1>
 <h2>🌐About🌐</h2>
-
-<h2>📃Usage📃</h2>
-
+<a href="https://kokomichrzan.github.io/WebBio/">My Website Bio page </a>
 <h2>✨Contributors✨</h2>
 <table>
   <td>
@@ -17,8 +14,6 @@
     </table>
   </td>
 </table>
-
-<h2>🔥Features🔥</h2>
 
 <img height=200px src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/main/Assets/Pak.gif">
 
